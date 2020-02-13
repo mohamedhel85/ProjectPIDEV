@@ -6,6 +6,13 @@ this is our PIDEV repository
 the update must be done as follow:
   - the title must be like this > update + [date of the update DD/MM/YYYY]
   - list of the modifications applied on the project    
+# update 13/02/2020
+- added database Script
+- database script contains the following tables:
+  - user table
+  - session table
+  - note table
+  - club table
 # update 12/02/2020
 - added club entity
 - added clubMember entity
